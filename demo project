@@ -1,0 +1,110 @@
+<html>
+<head>
+<title>Online Book Shopping</title>
+<style type="text/css">
+a
+{
+color:white;
+font-size:20px;
+}
+.t1
+{
+padding-top:100px;
+}
+.t2
+{
+padding-top:200px;
+}
+h1
+{ 
+font-size:85px;
+color:white;
+}
+h2
+{ 
+font-size:30px;
+color:white;
+}
+
+</style>
+</head>
+<body>
+<!--Table1-->
+<form name="form1">
+<table width="100%" height="20%" bgcolor="black">
+<tr>
+<td><h1>Crossword.in</h1></td>
+<td class="t1" width="70"><a href="Home.html">Home</a></td>
+<td class="t1" width="60"><a href="SignUp.html">Login</a><td>
+<td class="t1" width="100"><a href="ContactUs.html">ContactUs</a></td>
+<td class="t1" width="100"><a href="AboutUs.html">AboutUs</a></td>
+<td class="t1" width="70"><a href="Help.html">Help</a></td>
+</tr>
+</table>
+<hr/>
+<table width="100%" height="10%" bgcolor="black"  border="0px">
+<tr><th><h2><strong>Shop By Category</strong></h2>
+<input type="text" name="search" placeholder="Search Books Here.."> <input type="button" value="Search"></th>
+<td class="a1" width="200"><a href="Books.html">Books</a></td>
+<td class="a2" width="200"><a href="bookinfo.html">Crossword Recommendeds</a><td>
+<td class="a3" width="200"><a href="GiftVouchers.html">Gift Vouchers</a></td>
+<td class="a4" width="200"><a href="RaymodCrosswordBookAward.html">Reymod Crossword Book Award</a></td>
+<td class="a5" width="200"><a href="BestOf2016">Best Of 2016</a></td>
+</table>
+
+<table width="100%" height="50%" border="1" bgcolor="Red">
+<tr> 
+  
+  <td>
+   <h2><b>Shop By Category</b></h2>
+   <li><a href="Art.html">Art</a></li>
+   <li><a href="Cooking.html">Cooking</a></li>
+   <li><a href="Fiction.html">Fiction</a></li>
+   <li><a href="Travel.html">Travel</a></li>
+   <li><a href="Comics.html">Comics</a></li>
+   <li><a href="Religion.html">Religion</a></li>
+   <li><a href="Helth & Fitness.html">Helth & Fitness</a></li>
+  </td>
+
+  <td>
+       <center><a href="ShippingDetails.html"><img src="tech.jpg" width="240" height="320"></a>&nbsp;&nbsp;<br/>
+       <b>Technical Writing <br/>
+	   and <br/>
+	   Professional Communication <br/>Prize:250Rs.</b></center>
+  </td>	   
+
+   <td>
+       <center><a href="ShippingDetails.html"><img src="java1.jpg" width="240" height="320"></a>&nbsp;&nbsp;<br/>
+       <b>JAVA Programming<br/>Prize:250Rs.</b></center>
+  </td>	   
+
+    <td>
+       <center><a href="ShippingDetails.html"><img src="core.png" width="240" height="320"></a>&nbsp;&nbsp;<br/>
+       <b>Core JAVA for Impetient<br/>Prize:200Rs.</b></center>
+  </td>	   
+
+   <td>
+       <center><a href="ShippingDetails.html"><img src="python.jpg" width="240" height="320"></a>&nbsp;&nbsp;<br/>
+       <b>Python Programming<br/>Prize:250Rs.</b></center>
+  </td>	   
+ 
+   <td>
+       <center><a href="ShippingDetails.html"><img src="C.png" width="240" height="320"></a>&nbsp;&nbsp;<br/>
+       <b>C Programming<br/>Prize:350Rs.</b></center>
+  </td>	   
+
+   <td>
+       <center><a href="ShippingDetails.html"><img src="mystory.png" width="240" height="320"></a>&nbsp;&nbsp;<br/>
+       <b>Story Of My life<br/>Prize:150Rs.</b></center>
+  </td>	   
+
+ </tr>
+ </table>
+ </body>
+ </html>
+
+
+
+
+</body>
+</html>
